@@ -3,7 +3,7 @@
 This project analyzes customer retention across weekly cohorts, focusing on trends in customer behavior over time. The goal is to track retention rates, identify top-performing cohorts, and analyze areas for improvement.
 
 ## Key Insights from Dashboard
-[Cohort_Analysis.pdf](https://github.com/user-attachments/files/17196085/Cohort_Analysis.pdf)
+![Cohort_Analysis](https://github.com/user-attachments/assets/b317a4f8-7a9a-475b-b700-621fc97d8b02)
 
 - **Best Performing Cohorts**: 
   - Cohort from **2020-12-20** shows the highest retention across the weeks, with a retention rate of **93.41%** by week 6.
